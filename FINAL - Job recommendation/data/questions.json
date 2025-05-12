@@ -1,0 +1,22 @@
+{
+    "start": {
+      "id": "q1",
+      "text": "Which of these interest areas excites you the most?",
+      "type": "mcq",
+      "options": [
+        "Working with technology and systems",
+        "Creative arts and design",
+        "Business and problem solving",
+        "Helping and caring for people",
+        "Building and constructing things"
+      ]
+    },
+    "metadata": {
+      "education_levels": ["High School", "Diploma", "Bachelor's", "Master's", "PhD"],
+      "skill_areas": {
+        "technical": ["Programming", "Data Analysis", "Networking", "AI/ML"],
+        "creative": ["Graphic Design", "Writing", "Photography", "Video Editing"],
+        "business": ["Marketing", "Finance", "Management", "Sales"]
+      }
+    }
+  }

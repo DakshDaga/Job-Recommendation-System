@@ -1,0 +1,15 @@
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.206.170:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.206.170:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.77.234:443: socket is null
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.77.234:443: socket is null
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.43.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.43.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.43.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.43.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.223.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.223.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.43.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.43.106:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.194.138:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.194.138:443: tcp handshaker shutdown
+ERROR:root:Embedding error: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.195.10:443: tcp handshaker shutdown
